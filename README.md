@@ -1,1 +1,1 @@
-# odin-recipes
+<h1>The Odin Project - Recipes</h1>
